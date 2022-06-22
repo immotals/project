@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{09FBBCEF-9899-4DAE-99D0-A1CDDFC58019}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WinFrmMain</RootNamespace>
+    <AssemblyName>WinFrmMain</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\FrmResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\FrmResult.Designer.cs">
+      <DependentUpon>FrmResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\FrmResultChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\FrmResultChild.Designer.cs">
+      <DependentUpon>FrmResultChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\FrmFolderBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control\FrmFolderBrowser.Designer.cs">
+      <DependentUpon>FrmFolderBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\FrmButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control\FrmButton.Designer.cs">
+      <DependentUpon>FrmButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\FrmChkRadio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control\FrmChkRadio.Designer.cs">
+      <DependentUpon>FrmChkRadio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\FrmComboListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control\FrmComboListBox.Designer.cs">
+      <DependentUpon>FrmComboListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\FrmFontDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control\FrmFontDialog.Designer.cs">
+      <DependentUpon>FrmFontDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\FrmGroupBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control\FrmGroupBox.Designer.cs">
+      <DependentUpon>FrmGroupBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\FrmTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control\FrmTextBox.Designer.cs">
+      <DependentUpon>FrmTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\FrmTextBoxButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control\FrmTextBoxButton.Designer.cs">
+      <DependentUpon>FrmTextBoxButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAbout.Designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Class\FrmResult.resx">
+      <DependentUpon>FrmResult.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Class\FrmResultChild.resx">
+      <DependentUpon>FrmResultChild.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\FrmFolderBrowser.resx">
+      <DependentUpon>FrmFolderBrowser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\FrmChkRadio.resx">
+      <DependentUpon>FrmChkRadio.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\FrmComboListBox.resx">
+      <DependentUpon>FrmComboListBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\FrmFontDialog.resx">
+      <DependentUpon>FrmFontDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\FrmGroupBox.resx">
+      <DependentUpon>FrmGroupBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\FrmTextBox.resx">
+      <DependentUpon>FrmTextBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\FrmTextBoxButton.resx">
+      <DependentUpon>FrmTextBoxButton.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sample\FrmSampleNotepad.resx">
+      <DependentUpon>FrmSampleNotepad.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Sample\FrmSampleNotepad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample\FrmSampleNotepad.Designer.cs">
+      <DependentUpon>FrmSampleNotepad.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

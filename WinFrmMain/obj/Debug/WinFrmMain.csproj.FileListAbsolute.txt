@@ -1,0 +1,205 @@
+C:\Documents and Settings\Administrator\바탕 화면\WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Users\Administrator\Downloads\03.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Users\Administrator\Downloads\03.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Users\Administrator\Downloads\03.WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Users\Administrator\Downloads\03.WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Users\Administrator\Downloads\03.WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\03.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Users\Administrator\Downloads\03.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Users\Administrator\Downloads\03.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Users\Administrator\Downloads\03.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Users\Administrator\Downloads\03.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\04[1].WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\말똥가리\WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\06[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmGroupBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\비둘기\07.WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmComboListBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmGroupBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\08[1].WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmComboListBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmGroupBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\[09]WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmComboListBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmGroupBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResult.resources
+C:\Documents and Settings\Administrator\바탕 화면\09WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResultChild.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResult.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResultChild.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmComboListBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmGroupBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\10WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmFontDialog.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResult.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResultChild.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmComboListBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmFontDialog.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmGroupBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\11WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmFolderBrowser.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResult.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResultChild.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmFolderBrowser.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmComboListBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmFontDialog.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmGroupBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\12WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Sample.FrmSampleNotepad.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResult.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResultChild.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmFolderBrowser.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmComboListBox.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmFontDialog.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmGroupBox.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Sample.FrmSampleNotepad.resources
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Users\Administrator\Desktop\13WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.exe
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\bin\Debug\WinFrmMain.pdb
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResult.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Class.FrmDialogResultChild.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmFolderBrowser.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmChkRadio.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmComboListBox.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmFontDialog.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmGroupBox.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBox.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Control.FrmTextBoxButton.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmAbout.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.FrmMain.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Properties.Resources.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.Sample.FrmSampleNotepad.resources
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.GenerateResource.cache
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.exe
+C:\Users\user\source\repos\13WinFrmMain\WinFrmMain\obj\Debug\WinFrmMain.pdb
