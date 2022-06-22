@@ -1,0 +1,37 @@
+D:\Example\C#\Memo\Memo\obj\Debug\ResolveAssemblyReference.cache
+D:\Example\C#\Memo\Memo\obj\Debug\Memo.MainForm.resources
+D:\Example\C#\Memo\Memo\obj\Debug\Memo.Properties.Resources.resources
+D:\Example\C#\Memo\Memo\obj\Debug\Memo.csproj.GenerateResource.Cache
+D:\Example\C#\Memo\Memo\bin\Debug\Memo.exe
+D:\Example\C#\Memo\Memo\bin\Debug\Memo.pdb
+D:\Example\C#\Memo\Memo\obj\Debug\Memo.exe
+D:\Example\C#\Memo\Memo\obj\Debug\Memo.pdb
+D:\Example\C#\Memo\Memo\obj\Debug\Memo.Find.resources
+D:\Example\C#\Memo\Memo\obj\Debug\Memo.Go.resources
+D:\Example\C#\Memo\Memo\obj\Debug\Memo.Change.resources
+D:\Example\C#\Memo\Memo\obj\Debug\Memo.HangHelp.resources
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\obj\Debug\Memo.exe
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\obj\Debug\Memo.pdb
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\bin\Debug\Memo.exe
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\bin\Debug\Memo.pdb
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\obj\Debug\Memo.Change.resources
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\obj\Debug\Memo.Find.resources
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\obj\Debug\Memo.MainForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\obj\Debug\Memo.Go.resources
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\obj\Debug\Memo.HangHelp.resources
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\obj\Debug\Memo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\memo-minamjun11\Memo\obj\Debug\Memo.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\bin\Debug\Memo.exe
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\bin\Debug\Memo.pdb
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.Change.resources
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.Find.resources
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.MainForm.resources
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.Go.resources
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.HangHelp.resources
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.Properties.Resources.resources
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.csproj.GenerateResource.cache
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.exe
+C:\Users\user\source\repos\memo\memo-minamjun11\Memo\obj\Debug\Memo.pdb
